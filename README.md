@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @HaythemLazaar, Computer Science engineering student.
 - 👀 I’m interested in Saas and Web Apps.
 - 🌱 I’m currently learning React.js, Next.js and Three.js.
-- 💞️ I’m looking to collaborate on a PWA that fully runs on the cloud.
+- 💞️ I’m looking to collaborate on a PWA.
 - 📫 You can always find me at twitter.com/H4YTHEM, you can say hi at any time.
 
 <!---
