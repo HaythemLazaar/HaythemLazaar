@@ -1,5 +1,5 @@
 # What's UP !
-- 👋 The Name is Haythem Lazaar, Currently a Software Engineering student looking actively for internships.
+- 👋 The Name is Haythem Lazaar, Currently a Software Engineering student actively looking for Frontend internships.
 - 👀 I’m interested mainly in Web-Apps, Saas, Ecommerce Stores, Server-side Rendering, WebGL and Micro Frontends.
 - 🌱 I’m currently learning Next.js, Angular and Spring Boot.
 - 💞️ I’m looking to collaborate on a PWA that brings a smooth experience.
