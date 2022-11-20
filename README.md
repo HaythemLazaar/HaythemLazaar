@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning Next.js, Angular and Spring Boot.
 - 💞️ I’m looking to collaborate on a PWA that brings a smooth experience.
 - 📫 You can always find me at twitter.com/H4YTHEM, you can say hi at any time.
-- Have a look at my Portfolio **[Haythemlaz.tech](https://haythemlaz.tech)**
+- <a href="https://haythemlaz.tech" target="_blank"><img src="https://i.ibb.co/LkJf5Wv/icon.png" alt="icon" border="0" width="20" /></a>  Have a look at my Portfolio **[Haythemlaz.tech](https://haythemlaz.tech)**
 <br />
-<img src="https://i.ibb.co/LkJf5Wv/icon.png" alt="icon" border="0" width="100" />
-
+<a href="https://app.daily.dev/haythem06"><img src="https://api.daily.dev/devcards/3c33ff15dda24039bd01ee2430d4d18a.png?r=fmc" width="400" alt="Haythem's Dev Card"/></a>
 <!---
 HaythemLazaar/HaythemLazaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
