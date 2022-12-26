@@ -19,7 +19,7 @@ Actively looking for an internship, **Got something ? My Socials are up there.**
 <img src="https://github.com/HaythemLazaar/HaythemLazaar/blob/main/nextjs.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" title="React.js" alt="React.js logo" width="100" />&emsp;
 <img src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" title="Spring" alt="Spring logo" width="80"/>&emsp;
-<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://icon-library.com/images/919831.svg.svg" title="Node.js" alt="Sass Logo" width="120"/>&emsp;
 
 <br>
 
