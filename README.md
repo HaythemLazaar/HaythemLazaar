@@ -8,7 +8,7 @@ I am an ex-Cadet turned into Computer Science Student, highly interested in **Sa
 
 Aesthetically pleasing & User friendly Web Apps get me going, Making them PWAs and scaling through CDNs is top notch.
 
-At the moment, Learning **SSR & SSG, Micro-Frontends & Micro Services** to upgrade my skillset.
+At the moment, Learning **Event-driven architecture, Micro Services & Software design patterns** to grow my skillset & building [Collo](https://www.collo.app).
 
 I've been heavily focusing on creating hobby projects, some of them are : [My Portfolio](https://haythemlaz.tech), [toCopy](https://to-copy.vercel.app/), [Fake Chat Generator](https://social-media-chat-generator.vercel.app/).
 
