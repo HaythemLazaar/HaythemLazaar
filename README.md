@@ -25,7 +25,7 @@ Actively looking for an internship, **Got something ? My Socials are up there.**
 
 # My DevCard
 <br>
-<a href="https://app.daily.dev/haythem06"><img src="https://github.com/HaythemLazaar/HaythemLazaar/blob/main/devcard.svg" width="300" alt="Haythem's Dev Card"/></a>
+<a href="https://app.daily.dev/HaythemLazaar"><img src="https://github.com/HaythemLazaar/HaythemLazaar/blob/main/devcard.svg" width="300" alt="Haythem's Dev Card"/></a>
 <!---
 HaythemLazaar/HaythemLazaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
