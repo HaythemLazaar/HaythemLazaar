@@ -1,5 +1,5 @@
 # Hi 👋, I Am Haythem
-<a href="https://haythemlaz.tech" target="_blank"><img src="https://i.ibb.co/LkJf5Wv/icon.png" alt="icon" border="0" width="30" /></a>
+<a href="https://haythem-laz.tech" target="_blank"><img src="https://i.ibb.co/LkJf5Wv/icon.png" alt="icon" border="0" width="30" /></a>
 &ensp;<a href="https://twitter.com/HaythemLaz" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/haythem-lazaar/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 &ensp;<a href="https://app.daily.dev/haythem06" target="_blank"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
@@ -8,7 +8,7 @@ I am an ex-Cadet turned into Computer Science Student, highly interested in **Sa
 
 Aesthetically pleasing & User friendly Web Apps get me going 😂, Making them PWAs and scaling through CDNs is top notch.
 
-At the moment, Learning **Event-driven architecture, Micro Services & Software design patterns** to grow my skillset & building [Collo](https://www.collo.app).
+At the moment, Learning **Event-driven architecture, Micro Services & Software design patterns** to grow my skillset.
 
 I've been heavily focusing on creating web apps, some of them are : [Scheduling app](https://bookbyqr-redesign.vercel.app), [Collo](https://www.collo.app), [toCopy](https://to-copy.vercel.app/).
 
