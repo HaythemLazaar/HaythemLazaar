@@ -25,7 +25,7 @@ Actively looking for an 6-month en-of-studies internship, **Got something ? My S
 
 # My DevCard
 <br>
-<a href="https://app.daily.dev/HaythemLazaar"><img src="https://github.com/HaythemLazaar/HaythemLazaar/blob/main/devcard.svg" width="300" alt="Haythem's Dev Card"/></a>
+<a href="https://app.daily.dev/haythemlazaar"><img src="https://api.daily.dev/devcards/v2/h2YD25ez0rnsrMFSjPnGU.png?r=gdj" width="356" alt="Haythem's Dev Card"/></a>
 <!---
 HaythemLazaar/HaythemLazaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
