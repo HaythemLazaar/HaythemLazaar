@@ -12,8 +12,6 @@ At the moment, Learning **Event-driven architecture, Micro Services & Software d
 
 I've been heavily focusing on creating web apps, some of them are : [Scheduling app](https://bookbyqr-redesign.vercel.app), [Collo](https://www.collo.app), [toCopy](https://to-copy.vercel.app/).
 
-Actively looking for an 6-month en-of-studies internship, **Got something ? My Socials are up there.**  
-
 # Tech Stack
 
 <img src="https://github.com/HaythemLazaar/HaythemLazaar/blob/main/nextjs.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
